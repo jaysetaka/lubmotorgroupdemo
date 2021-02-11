@@ -989,4 +989,13 @@ footer .social-icon {
     max-width: 100% !important;
     overflow-x: hidden !important;
   }
+  .feature-thumb {
+    text-align: center;
+  }
+  .about-info {
+    text-align: center;
+  }
+  #about figure span {
+    float: none;
+  }
 }
